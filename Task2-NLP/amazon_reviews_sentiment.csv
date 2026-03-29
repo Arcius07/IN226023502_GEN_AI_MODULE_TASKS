@@ -1,0 +1,16 @@
+review_id,product_category,review_title,review_body,rating,sentiment
+1,Electronics,Fantastic Noise Cancelling,These headphones are incredible. The active noise cancelling works perfectly on my daily commute and the battery life lasts for days. Highly recommend!,5,positive
+2,Electronics,Disappointing Build Quality,The sound is okay but the plastic headband cracked after only two weeks of light use. For this price I expected much better durability.,2,negative
+3,Home & Kitchen,Great Coffee Maker,Makes a hot cup of coffee quickly. The programmable timer is a lifesaver in the mornings. Simple to clean as well.,5,positive
+4,Home & Kitchen,Average at best,It does the job but it is very loud and the water reservoir is smaller than advertised. It is just fine for a guest room.,3,neutral
+5,Books,Must Read for History Buffs,The research put into this biography is astounding. It provides a fresh perspective on well-known events. Couldn't put it down.,5,positive
+6,Books,Tedious and Slow,I really wanted to like this book but the pacing is glacial. The author spends too much time on minor details that don't advance the plot.,2,negative
+7,Beauty,Skin feels amazing,I have sensitive skin and this moisturizer hasn't caused any breakouts. My face feels hydrated and soft all day long.,5,positive
+8,Beauty,Strong chemical smell,The product works okay but the scent is so strong and artificial that I can't stand to wear it. It smells like industrial cleaner.,1,negative
+9,Sports,Decent Yoga Mat,Good grip and cushioning. However it did have a bit of a rubbery smell for the first few days that took a while to dissipate.,4,positive
+10,Sports,Slippery when wet,As soon as I start sweating I lose my grip on this mat. Not safe for hot yoga sessions at all.,2,negative
+11,Toys,Kids love it,Bought this for my 5-year-old and they haven't stopped playing with it. It seems sturdy enough to survive rough play.,5,positive
+12,Toys,Missing pieces,The box arrived damaged and when we opened it two of the main structural pieces were missing. Very frustrating for a birthday gift.,1,negative
+13,Clothing,Perfect Fit,The size chart was accurate and the fabric is much higher quality than I expected for the price. I will be ordering more colors.,5,positive
+14,Clothing,Shrank in the wash,Followed the washing instructions exactly but the shirt shrank two sizes and the color faded significantly. Waste of money.,1,negative
+15,Electronics,Good for the price,You get what you pay for. It’s not a high-end tablet but for browsing the web and watching Netflix it works perfectly fine.,4,positive
